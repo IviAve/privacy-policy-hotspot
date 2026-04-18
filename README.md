@@ -1,4 +1,4 @@
-# privacy-policy-hotspot
+
 
 # Privacy Policy for Hotspot Weather
 
